@@ -52,7 +52,7 @@ Best SVD parameters: `n_factors=150, n_epochs=30, lr_all=0.01, reg_all=0.1`
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/dlsoul13/Movie.git
+git clone https://github.com/ravshanovna-d/Movie.git
 cd Movie
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost scikit-surprise
 ```
